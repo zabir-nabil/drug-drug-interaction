@@ -1,0 +1,9 @@
+colab with 2011 data: https://colab.research.google.com/drive/1Vq9ab7sD3fcYXZkeI33bZ83eMu4gH1Mv?usp=sharing
+
+main repo: https://github.com/monologg/BIO-R-BERT
+(compare with results from here)
+
+only biobert
+
+results:
+

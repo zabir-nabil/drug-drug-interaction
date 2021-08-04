@@ -1,0 +1,597 @@
+07/27/2021 13:17:32 - INFO - trainer -     Num examples = 3020
+07/27/2021 13:17:32 - INFO - trainer -     Batch size = 4
+Evaluating: 100%|█████████████████████████████| 755/755 [00:55<00:00, 13.50it/s]
+07/27/2021 13:18:28 - INFO - trainer -   ***** Eval results *****
+07/27/2021 13:18:28 - INFO - trainer -     acc = 0.71688741721854310, 13.49it/s]
+07/27/2021 13:18:28 - INFO - trainer -     f1 = 0.4796479647964797
+07/27/2021 13:18:28 - INFO - trainer -     loss = 0.7111883343351598
+07/27/2021 13:18:32 - INFO - trainer -   Saving model checkpoint to ./model
+                                                                               07/27/2021 13:20:11 - INFO - trainer -   ***** Running evaluation on test dataset *****
+07/27/2021 13:20:11 - INFO - trainer -     Num examples = 3020
+07/27/2021 13:20:11 - INFO - trainer -     Batch size = 4
+Evaluating: 100%|█████████████████████████████| 755/755 [00:55<00:00, 13.49it/s]
+07/27/2021 13:21:07 - INFO - trainer -   ***** Eval results *****
+07/27/2021 13:21:07 - INFO - trainer -     acc = 0.76821192052980140, 13.50it/s]
+07/27/2021 13:21:07 - INFO - trainer -     f1 = 0.5086321381142099
+07/27/2021 13:21:07 - INFO - trainer -     loss = 0.7929157438521452
+07/27/2021 13:21:11 - INFO - trainer -   Saving model checkpoint to ./model
+                                                                               07/27/2021 13:22:50 - INFO - trainer -   ***** Running evaluation on test dataset *****
+07/27/2021 13:22:50 - INFO - trainer -     Num examples = 3020
+07/27/2021 13:22:50 - INFO - trainer -     Batch size = 4
+Evaluating: 100%|█████████████████████████████| 755/755 [00:55<00:00, 13.50it/s]
+07/27/2021 13:23:46 - INFO - trainer -   ***** Eval results *****
+07/27/2021 13:23:46 - INFO - trainer -     acc = 0.81291390728476820, 13.49it/s]
+07/27/2021 13:23:46 - INFO - trainer -     f1 = 0.6477595008508223
+07/27/2021 13:23:46 - INFO - trainer -     loss = 0.6663870492647864
+07/27/2021 13:23:50 - INFO - trainer -   Saving model checkpoint to ./model
+                                                                               07/27/2021 13:25:29 - INFO - trainer -   ***** Running evaluation on test dataset *****
+07/27/2021 13:25:29 - INFO - trainer -     Num examples = 3020
+07/27/2021 13:25:29 - INFO - trainer -     Batch size = 4
+Evaluating: 100%|█████████████████████████████| 755/755 [00:55<00:00, 13.50it/s]
+07/27/2021 13:26:25 - INFO - trainer -   ***** Eval results *****
+07/27/2021 13:26:25 - INFO - trainer -     acc = 0.83410596026490070, 13.51it/s]
+07/27/2021 13:26:25 - INFO - trainer -     f1 = 0.7131552917903066
+07/27/2021 13:26:25 - INFO - trainer -     loss = 0.6934570883511757
+07/27/2021 13:26:30 - INFO - trainer -   Saving model checkpoint to ./model
+                                                                               07/27/2021 13:28:09 - INFO - trainer -   ***** Running evaluation on test dataset *****
+07/27/2021 13:28:09 - INFO - trainer -     Num examples = 3020
+07/27/2021 13:28:09 - INFO - trainer -     Batch size = 4
+Evaluating: 100%|█████████████████████████████| 755/755 [00:55<00:00, 13.49it/s]
+07/27/2021 13:29:05 - INFO - trainer -   ***** Eval results *****
+07/27/2021 13:29:05 - INFO - trainer -     acc = 0.86390728476821190, 13.50it/s]
+07/27/2021 13:29:05 - INFO - trainer -     f1 = 0.7367822626492324
+07/27/2021 13:29:05 - INFO - trainer -     loss = 0.7219947228993795
+07/27/2021 13:29:09 - INFO - trainer -   Saving model checkpoint to ./model
+                                                                               07/27/2021 13:30:48 - INFO - trainer -   ***** Running evaluation on test dataset *****
+07/27/2021 13:30:48 - INFO - trainer -     Num examples = 3020
+07/27/2021 13:30:48 - INFO - trainer -     Batch size = 4
+Evaluating: 100%|█████████████████████████████| 755/755 [00:55<00:00, 13.49it/s]
+07/27/2021 13:31:44 - INFO - trainer -   ***** Eval results *****
+07/27/2021 13:31:44 - INFO - trainer -     acc = 0.84635761589403970, 13.50it/s]
+07/27/2021 13:31:44 - INFO - trainer -     f1 = 0.7429928741092636
+07/27/2021 13:31:44 - INFO - trainer -     loss = 0.6985766353466493
+07/27/2021 13:31:48 - INFO - trainer -   Saving model checkpoint to ./model
+                                                                               07/27/2021 13:33:27 - INFO - trainer -   ***** Running evaluation on test dataset *****
+07/27/2021 13:33:27 - INFO - trainer -     Num examples = 3020
+07/27/2021 13:33:27 - INFO - trainer -     Batch size = 4
+Evaluating: 100%|█████████████████████████████| 755/755 [00:55<00:00, 13.50it/s]
+07/27/2021 13:34:23 - INFO - trainer -   ***** Eval results *****
+07/27/2021 13:34:23 - INFO - trainer -     acc = 0.87980132450331130, 13.49it/s]
+07/27/2021 13:34:23 - INFO - trainer -     f1 = 0.7774855339295109
+07/27/2021 13:34:23 - INFO - trainer -     loss = 0.5846505366926489
+07/27/2021 13:34:27 - INFO - trainer -   Saving model checkpoint to ./model
+                                                                               07/27/2021 13:36:05 - INFO - trainer -   ***** Running evaluation on test dataset *****
+07/27/2021 13:36:05 - INFO - trainer -     Num examples = 3020
+07/27/2021 13:36:05 - INFO - trainer -     Batch size = 4
+Evaluating: 100%|█████████████████████████████| 755/755 [00:55<00:00, 13.49it/s]
+07/27/2021 13:37:01 - INFO - trainer -   ***** Eval results *****
+07/27/2021 13:37:01 - INFO - trainer -     acc = 0.88774834437086090, 13.49it/s]
+07/27/2021 13:37:01 - INFO - trainer -     f1 = 0.7872225230102871
+07/27/2021 13:37:01 - INFO - trainer -     loss = 0.5546721896647001
+07/27/2021 13:37:07 - INFO - trainer -   Saving model checkpoint to ./model
+Iteration: 100%|████████████████████████████| 3211/3211 [21:14<00:00,  2.52it/s]
+Epoch:  12%|████▎                             | 1/8 [21:14<2:28:40, 1274.37s/it07/27/2021 13:38:45 - INFO - trainer -   ***** Running evaluation on test dataset *****
+07/27/2021 13:38:45 - INFO - trainer -     Num examples = 3020
+07/27/2021 13:38:45 - INFO - trainer -     Batch size = 4
+Evaluating: 100%|█████████████████████████████| 755/755 [00:55<00:00, 13.49it/s]
+07/27/2021 13:39:41 - INFO - trainer -   ***** Eval results *****
+07/27/2021 13:39:41 - INFO - trainer -     acc = 0.89072847682119200, 13.50it/s]
+07/27/2021 13:39:41 - INFO - trainer -     f1 = 0.7941176470588235
+07/27/2021 13:39:41 - INFO - trainer -     loss = 0.619348354356742
+07/27/2021 13:39:45 - INFO - trainer -   Saving model checkpoint to ./model
+                                                                               07/27/2021 13:41:23 - INFO - trainer -   ***** Running evaluation on test dataset *****
+07/27/2021 13:41:23 - INFO - trainer -     Num examples = 3020
+07/27/2021 13:41:23 - INFO - trainer -     Batch size = 4
+Evaluating: 100%|█████████████████████████████| 755/755 [00:55<00:00, 13.49it/s]
+07/27/2021 13:42:19 - INFO - trainer -   ***** Eval results *****
+07/27/2021 13:42:19 - INFO - trainer -     acc = 0.89503311258278150, 13.50it/s]
+07/27/2021 13:42:19 - INFO - trainer -     f1 = 0.8018528049408132
+07/27/2021 13:42:19 - INFO - trainer -     loss = 0.5984636885150635
+07/27/2021 13:42:23 - INFO - trainer -   Saving model checkpoint to ./model
+                                                                               07/27/2021 13:44:01 - INFO - trainer -   ***** Running evaluation on test dataset *****
+07/27/2021 13:44:01 - INFO - trainer -     Num examples = 3020
+07/27/2021 13:44:01 - INFO - trainer -     Batch size = 4
+Evaluating: 100%|█████████████████████████████| 755/755 [00:55<00:00, 13.49it/s]
+07/27/2021 13:44:57 - INFO - trainer -   ***** Eval results *****
+07/27/2021 13:44:57 - INFO - trainer -     acc = 0.87185430463576160, 13.48it/s]
+07/27/2021 13:44:57 - INFO - trainer -     f1 = 0.7465437788018433
+07/27/2021 13:44:57 - INFO - trainer -     loss = 0.6534006142252532
+07/27/2021 13:45:01 - INFO - trainer -   Saving model checkpoint to ./model
+                                                                               07/27/2021 13:46:40 - INFO - trainer -   ***** Running evaluation on test dataset *****
+07/27/2021 13:46:40 - INFO - trainer -     Num examples = 3020
+07/27/2021 13:46:40 - INFO - trainer -     Batch size = 4
+Evaluating: 100%|█████████████████████████████| 755/755 [00:55<00:00, 13.49it/s]
+07/27/2021 13:47:35 - INFO - trainer -   ***** Eval results *****
+07/27/2021 13:47:35 - INFO - trainer -     acc = 0.89238410596026490, 13.48it/s]
+07/27/2021 13:47:35 - INFO - trainer -     f1 = 0.8038133467134974
+07/27/2021 13:47:35 - INFO - trainer -     loss = 0.5846906700541592
+07/27/2021 13:47:39 - INFO - trainer -   Saving model checkpoint to ./model
+                                                                               07/27/2021 13:49:17 - INFO - trainer -   ***** Running evaluation on test dataset *****
+07/27/2021 13:49:17 - INFO - trainer -     Num examples = 3020
+07/27/2021 13:49:17 - INFO - trainer -     Batch size = 4
+Evaluating: 100%|█████████████████████████████| 755/755 [00:55<00:00, 13.49it/s]
+07/27/2021 13:50:13 - INFO - trainer -   ***** Eval results *****
+07/27/2021 13:50:13 - INFO - trainer -     acc = 0.88609271523178810, 13.48it/s]
+07/27/2021 13:50:13 - INFO - trainer -     f1 = 0.7813504823151124
+07/27/2021 13:50:13 - INFO - trainer -     loss = 0.7036767806746228
+07/27/2021 13:50:17 - INFO - trainer -   Saving model checkpoint to ./model
+                                                                               07/27/2021 13:51:56 - INFO - trainer -   ***** Running evaluation on test dataset *****
+07/27/2021 13:51:56 - INFO - trainer -     Num examples = 3020
+07/27/2021 13:51:56 - INFO - trainer -     Batch size = 4
+Evaluating: 100%|█████████████████████████████| 755/755 [00:55<00:00, 13.49it/s]
+07/27/2021 13:52:51 - INFO - trainer -   ***** Eval results *****
+07/27/2021 13:52:51 - INFO - trainer -     acc = 0.87947019867549670, 13.49it/s]
+07/27/2021 13:52:51 - INFO - trainer -     f1 = 0.7896281800391389
+07/27/2021 13:52:51 - INFO - trainer -     loss = 0.6690576761055873
+07/27/2021 13:52:56 - INFO - trainer -   Saving model checkpoint to ./model
+                                                                               07/27/2021 13:54:34 - INFO - trainer -   ***** Running evaluation on test dataset *****
+07/27/2021 13:54:34 - INFO - trainer -     Num examples = 3020
+07/27/2021 13:54:34 - INFO - trainer -     Batch size = 4
+Evaluating: 100%|█████████████████████████████| 755/755 [00:55<00:00, 13.49it/s]
+07/27/2021 13:55:30 - INFO - trainer -   ***** Eval results *****
+07/27/2021 13:55:30 - INFO - trainer -     acc = 0.89437086092715230, 13.50it/s]
+07/27/2021 13:55:30 - INFO - trainer -     f1 = 0.8018917498686284
+07/27/2021 13:55:30 - INFO - trainer -     loss = 0.6522875427899671
+07/27/2021 13:55:34 - INFO - trainer -   Saving model checkpoint to ./model
+                                                                               07/27/2021 13:57:13 - INFO - trainer -   ***** Running evaluation on test dataset *****
+07/27/2021 13:57:13 - INFO - trainer -     Num examples = 3020
+07/27/2021 13:57:13 - INFO - trainer -     Batch size = 4
+Evaluating: 100%|█████████████████████████████| 755/755 [00:55<00:00, 13.49it/s]
+07/27/2021 13:58:08 - INFO - trainer -   ***** Eval results *****
+07/27/2021 13:58:08 - INFO - trainer -     acc = 0.89470198675496690, 13.47it/s]
+07/27/2021 13:58:08 - INFO - trainer -     f1 = 0.7980972515856237
+07/27/2021 13:58:08 - INFO - trainer -     loss = 0.6536445848318626
+07/27/2021 13:58:13 - INFO - trainer -   Saving model checkpoint to ./model
+Iteration: 100%|████████████████████████████| 3211/3211 [21:08<00:00,  2.53it/s]
+Epoch:  25%|████████▌                         | 2/8 [42:23<2:07:06, 1271.05s/it07/27/2021 13:59:51 - INFO - trainer -   ***** Running evaluation on test dataset *****
+07/27/2021 13:59:51 - INFO - trainer -     Num examples = 3020
+07/27/2021 13:59:51 - INFO - trainer -     Batch size = 4
+Evaluating: 100%|█████████████████████████████| 755/755 [00:55<00:00, 13.49it/s]
+07/27/2021 14:00:47 - INFO - trainer -   ***** Eval results *****
+07/27/2021 14:00:47 - INFO - trainer -     acc = 0.88609271523178810, 13.50it/s]
+07/27/2021 14:00:47 - INFO - trainer -     f1 = 0.7952047952047951
+07/27/2021 14:00:47 - INFO - trainer -     loss = 0.7574717011806726
+07/27/2021 14:00:53 - INFO - trainer -   Saving model checkpoint to ./model
+                                                                               07/27/2021 14:02:31 - INFO - trainer -   ***** Running evaluation on test dataset *****
+07/27/2021 14:02:31 - INFO - trainer -     Num examples = 3020
+07/27/2021 14:02:31 - INFO - trainer -     Batch size = 4
+Evaluating: 100%|█████████████████████████████| 755/755 [00:55<00:00, 13.50it/s]
+07/27/2021 14:03:27 - INFO - trainer -   ***** Eval results *****
+07/27/2021 14:03:27 - INFO - trainer -     acc = 0.88543046357615900, 13.50it/s]
+07/27/2021 14:03:27 - INFO - trainer -     f1 = 0.7958883994126285
+07/27/2021 14:03:27 - INFO - trainer -     loss = 0.6890744913833055
+07/27/2021 14:03:31 - INFO - trainer -   Saving model checkpoint to ./model
+                                                                               07/27/2021 14:05:08 - INFO - trainer -   ***** Running evaluation on test dataset *****
+07/27/2021 14:05:08 - INFO - trainer -     Num examples = 3020
+07/27/2021 14:05:08 - INFO - trainer -     Batch size = 4
+Evaluating: 100%|█████████████████████████████| 755/755 [00:55<00:00, 13.50it/s]
+07/27/2021 14:06:04 - INFO - trainer -   ***** Eval results *****
+07/27/2021 14:06:04 - INFO - trainer -     acc = 0.89602649006622510, 13.49it/s]
+07/27/2021 14:06:04 - INFO - trainer -     f1 = 0.7965056526207605
+07/27/2021 14:06:04 - INFO - trainer -     loss = 0.7018365506292668
+07/27/2021 14:06:09 - INFO - trainer -   Saving model checkpoint to ./model
+                                                                               07/27/2021 14:07:46 - INFO - trainer -   ***** Running evaluation on test dataset *****
+07/27/2021 14:07:46 - INFO - trainer -     Num examples = 3020
+07/27/2021 14:07:46 - INFO - trainer -     Batch size = 4
+Evaluating: 100%|█████████████████████████████| 755/755 [00:55<00:00, 13.50it/s]
+07/27/2021 14:08:42 - INFO - trainer -   ***** Eval results *****
+07/27/2021 14:08:42 - INFO - trainer -     acc = 0.88344370860927160, 13.48it/s]
+07/27/2021 14:08:42 - INFO - trainer -     f1 = 0.7832585949177878
+07/27/2021 14:08:42 - INFO - trainer -     loss = 0.7008765258985327
+07/27/2021 14:08:46 - INFO - trainer -   Saving model checkpoint to ./model
+                                                                               07/27/2021 14:10:24 - INFO - trainer -   ***** Running evaluation on test dataset *****
+07/27/2021 14:10:24 - INFO - trainer -     Num examples = 3020
+07/27/2021 14:10:24 - INFO - trainer -     Batch size = 4
+Evaluating: 100%|█████████████████████████████| 755/755 [00:55<00:00, 13.50it/s]
+07/27/2021 14:11:20 - INFO - trainer -   ***** Eval results *****
+07/27/2021 14:11:20 - INFO - trainer -     acc = 0.88410596026490060, 13.50it/s]
+07/27/2021 14:11:20 - INFO - trainer -     f1 = 0.7919395465994963
+07/27/2021 14:11:20 - INFO - trainer -     loss = 0.7148964344687918
+07/27/2021 14:11:24 - INFO - trainer -   Saving model checkpoint to ./model
+                                                                               07/27/2021 14:13:02 - INFO - trainer -   ***** Running evaluation on test dataset *****
+07/27/2021 14:13:02 - INFO - trainer -     Num examples = 3020
+07/27/2021 14:13:02 - INFO - trainer -     Batch size = 4
+Evaluating: 100%|█████████████████████████████| 755/755 [00:55<00:00, 13.49it/s]
+07/27/2021 14:13:58 - INFO - trainer -   ***** Eval results *****
+07/27/2021 14:13:58 - INFO - trainer -     acc = 0.88973509933774830, 13.50it/s]
+07/27/2021 14:13:58 - INFO - trainer -     f1 = 0.7846153846153846
+07/27/2021 14:13:58 - INFO - trainer -     loss = 0.7337905244394723
+07/27/2021 14:14:06 - INFO - trainer -   Saving model checkpoint to ./model
+                                                                               07/27/2021 14:15:44 - INFO - trainer -   ***** Running evaluation on test dataset *****
+07/27/2021 14:15:44 - INFO - trainer -     Num examples = 3020
+07/27/2021 14:15:44 - INFO - trainer -     Batch size = 4
+Evaluating: 100%|█████████████████████████████| 755/755 [00:55<00:00, 13.49it/s]
+07/27/2021 14:16:40 - INFO - trainer -   ***** Eval results *****
+07/27/2021 14:16:40 - INFO - trainer -     acc = 0.89834437086092710, 13.48it/s]
+07/27/2021 14:16:40 - INFO - trainer -     f1 = 0.791889007470651
+07/27/2021 14:16:40 - INFO - trainer -     loss = 0.7343499333282011
+07/27/2021 14:16:44 - INFO - trainer -   Saving model checkpoint to ./model
+                                                                               07/27/2021 14:18:22 - INFO - trainer -   ***** Running evaluation on test dataset *****
+07/27/2021 14:18:22 - INFO - trainer -     Num examples = 3020
+07/27/2021 14:18:22 - INFO - trainer -     Batch size = 4
+Evaluating: 100%|█████████████████████████████| 755/755 [00:55<00:00, 13.49it/s]
+07/27/2021 14:19:18 - INFO - trainer -   ***** Eval results *****
+07/27/2021 14:19:18 - INFO - trainer -     acc = 0.89304635761589400, 13.49it/s]
+07/27/2021 14:19:18 - INFO - trainer -     f1 = 0.7845244492208491
+07/27/2021 14:19:18 - INFO - trainer -     loss = 0.7553832890711648
+07/27/2021 14:19:25 - INFO - trainer -   Saving model checkpoint to ./model
+Iteration: 100%|████████████████████████████| 3211/3211 [21:14<00:00,  2.52it/s]
+Epoch:  38%|████████████                    | 3/8 [1:03:38<1:46:04, 1272.84s/it07/27/2021 14:21:03 - INFO - trainer -   ***** Running evaluation on test dataset *****
+07/27/2021 14:21:03 - INFO - trainer -     Num examples = 3020
+07/27/2021 14:21:03 - INFO - trainer -     Batch size = 4
+Evaluating: 100%|█████████████████████████████| 755/755 [00:55<00:00, 13.49it/s]
+07/27/2021 14:21:59 - INFO - trainer -   ***** Eval results *****
+07/27/2021 14:21:59 - INFO - trainer -     acc = 0.90066225165562920, 13.48it/s]
+07/27/2021 14:21:59 - INFO - trainer -     f1 = 0.8095479939055358
+07/27/2021 14:21:59 - INFO - trainer -     loss = 0.7545610410906258
+07/27/2021 14:22:03 - INFO - trainer -   Saving model checkpoint to ./model
+                                                                               07/27/2021 14:23:41 - INFO - trainer -   ***** Running evaluation on test dataset *****
+07/27/2021 14:23:41 - INFO - trainer -     Num examples = 3020
+07/27/2021 14:23:41 - INFO - trainer -     Batch size = 4
+Evaluating: 100%|█████████████████████████████| 755/755 [00:55<00:00, 13.49it/s]
+07/27/2021 14:24:37 - INFO - trainer -   ***** Eval results *****
+07/27/2021 14:24:37 - INFO - trainer -     acc = 0.90695364238410590, 13.47it/s]
+07/27/2021 14:24:37 - INFO - trainer -     f1 = 0.8196555217831814
+07/27/2021 14:24:37 - INFO - trainer -     loss = 0.7179349995789838
+07/27/2021 14:24:41 - INFO - trainer -   Saving model checkpoint to ./model
+                                                                               07/27/2021 14:26:19 - INFO - trainer -   ***** Running evaluation on test dataset *****
+07/27/2021 14:26:19 - INFO - trainer -     Num examples = 3020
+07/27/2021 14:26:19 - INFO - trainer -     Batch size = 4
+Evaluating: 100%|█████████████████████████████| 755/755 [00:55<00:00, 13.49it/s]
+07/27/2021 14:27:15 - INFO - trainer -   ***** Eval results *****
+07/27/2021 14:27:15 - INFO - trainer -     acc = 0.90033112582781460, 13.50it/s]
+07/27/2021 14:27:15 - INFO - trainer -     f1 = 0.8098840141200201
+07/27/2021 14:27:15 - INFO - trainer -     loss = 0.6937691496270972
+07/27/2021 14:27:19 - INFO - trainer -   Saving model checkpoint to ./model
+                                                                               07/27/2021 14:28:56 - INFO - trainer -   ***** Running evaluation on test dataset *****
+07/27/2021 14:28:56 - INFO - trainer -     Num examples = 3020
+07/27/2021 14:28:56 - INFO - trainer -     Batch size = 4
+Evaluating: 100%|█████████████████████████████| 755/755 [00:55<00:00, 13.49it/s]
+07/27/2021 14:29:52 - INFO - trainer -   ***** Eval results *****
+07/27/2021 14:29:52 - INFO - trainer -     acc = 0.90794701986754970, 13.48it/s]
+07/27/2021 14:29:52 - INFO - trainer -     f1 = 0.8179043743641912
+07/27/2021 14:29:52 - INFO - trainer -     loss = 0.6170526313185466
+07/27/2021 14:29:59 - INFO - trainer -   Saving model checkpoint to ./model
+                                                                               07/27/2021 14:31:37 - INFO - trainer -   ***** Running evaluation on test dataset *****
+07/27/2021 14:31:37 - INFO - trainer -     Num examples = 3020
+07/27/2021 14:31:37 - INFO - trainer -     Batch size = 4
+Evaluating: 100%|█████████████████████████████| 755/755 [00:55<00:00, 13.49it/s]
+07/27/2021 14:32:33 - INFO - trainer -   ***** Eval results *****
+07/27/2021 14:32:33 - INFO - trainer -     acc = 0.89966887417218540, 13.50it/s]
+07/27/2021 14:32:33 - INFO - trainer -     f1 = 0.7984913793103449
+07/27/2021 14:32:33 - INFO - trainer -     loss = 0.8051795359003631
+07/27/2021 14:32:37 - INFO - trainer -   Saving model checkpoint to ./model
+                                                                               07/27/2021 14:34:15 - INFO - trainer -   ***** Running evaluation on test dataset *****
+07/27/2021 14:34:15 - INFO - trainer -     Num examples = 3020
+07/27/2021 14:34:15 - INFO - trainer -     Batch size = 4
+Evaluating: 100%|█████████████████████████████| 755/755 [00:55<00:00, 13.49it/s]
+07/27/2021 14:35:11 - INFO - trainer -   ***** Eval results *****
+07/27/2021 14:35:11 - INFO - trainer -     acc = 0.90860927152317880, 13.48it/s]
+07/27/2021 14:35:11 - INFO - trainer -     f1 = 0.8177641653905053
+07/27/2021 14:35:11 - INFO - trainer -     loss = 0.5726291934952749
+07/27/2021 14:35:15 - INFO - trainer -   Saving model checkpoint to ./model
+                                                                               07/27/2021 14:36:53 - INFO - trainer -   ***** Running evaluation on test dataset *****
+07/27/2021 14:36:53 - INFO - trainer -     Num examples = 3020
+07/27/2021 14:36:53 - INFO - trainer -     Batch size = 4
+Evaluating: 100%|█████████████████████████████| 755/755 [00:55<00:00, 13.49it/s]
+07/27/2021 14:37:49 - INFO - trainer -   ***** Eval results *****
+07/27/2021 14:37:49 - INFO - trainer -     acc = 0.90960264900662250, 13.50it/s]
+07/27/2021 14:37:49 - INFO - trainer -     f1 = 0.8252378567851778
+07/27/2021 14:37:49 - INFO - trainer -     loss = 0.646646919779261
+07/27/2021 14:37:53 - INFO - trainer -   Saving model checkpoint to ./model
+                                                                               07/27/2021 14:39:31 - INFO - trainer -   ***** Running evaluation on test dataset *****
+07/27/2021 14:39:31 - INFO - trainer -     Num examples = 3020
+07/27/2021 14:39:31 - INFO - trainer -     Batch size = 4
+Evaluating: 100%|█████████████████████████████| 755/755 [00:55<00:00, 13.49it/s]
+07/27/2021 14:40:27 - INFO - trainer -   ***** Eval results *****
+07/27/2021 14:40:27 - INFO - trainer -     acc = 0.91026490066225160, 13.48it/s]
+07/27/2021 14:40:27 - INFO - trainer -     f1 = 0.8167817312798725
+07/27/2021 14:40:27 - INFO - trainer -     loss = 0.6412815583878247
+07/27/2021 14:40:35 - INFO - trainer -   Saving model checkpoint to ./model
+Iteration: 100%|████████████████████████████| 3211/3211 [21:12<00:00,  2.52it/s]
+Epoch:  50%|████████████████                | 4/8 [1:24:51<1:24:51, 1272.89s/it07/27/2021 14:42:13 - INFO - trainer -   ***** Running evaluation on test dataset *****
+07/27/2021 14:42:13 - INFO - trainer -     Num examples = 3020
+07/27/2021 14:42:13 - INFO - trainer -     Batch size = 4
+Evaluating: 100%|█████████████████████████████| 755/755 [00:55<00:00, 13.49it/s]
+07/27/2021 14:43:09 - INFO - trainer -   ***** Eval results *****
+07/27/2021 14:43:09 - INFO - trainer -     acc = 0.90364238410596030, 13.50it/s]
+07/27/2021 14:43:09 - INFO - trainer -     f1 = 0.7985114300903775
+07/27/2021 14:43:09 - INFO - trainer -     loss = 0.709281791681081
+07/27/2021 14:43:13 - INFO - trainer -   Saving model checkpoint to ./model
+                                                                               07/27/2021 14:44:51 - INFO - trainer -   ***** Running evaluation on test dataset *****
+07/27/2021 14:44:51 - INFO - trainer -     Num examples = 3020
+07/27/2021 14:44:51 - INFO - trainer -     Batch size = 4
+Evaluating: 100%|█████████████████████████████| 755/755 [00:55<00:00, 13.49it/s]
+07/27/2021 14:45:47 - INFO - trainer -   ***** Eval results *****
+07/27/2021 14:45:47 - INFO - trainer -     acc = 0.90430463576158940, 13.49it/s]
+07/27/2021 14:45:47 - INFO - trainer -     f1 = 0.8133676092544987
+07/27/2021 14:45:47 - INFO - trainer -     loss = 0.6856865494337182
+07/27/2021 14:45:51 - INFO - trainer -   Saving model checkpoint to ./model
+                                                                               07/27/2021 14:47:29 - INFO - trainer -   ***** Running evaluation on test dataset *****
+07/27/2021 14:47:29 - INFO - trainer -     Num examples = 3020
+07/27/2021 14:47:29 - INFO - trainer -     Batch size = 4
+Evaluating: 100%|█████████████████████████████| 755/755 [00:55<00:00, 13.50it/s]
+07/27/2021 14:48:25 - INFO - trainer -   ***** Eval results *****
+07/27/2021 14:48:25 - INFO - trainer -     acc = 0.89437086092715230, 13.51it/s]
+07/27/2021 14:48:25 - INFO - trainer -     f1 = 0.7879799666110182
+07/27/2021 14:48:25 - INFO - trainer -     loss = 0.816145464229279
+07/27/2021 14:48:29 - INFO - trainer -   Saving model checkpoint to ./model
+                                                                               07/27/2021 14:50:06 - INFO - trainer -   ***** Running evaluation on test dataset *****
+07/27/2021 14:50:06 - INFO - trainer -     Num examples = 3020
+07/27/2021 14:50:06 - INFO - trainer -     Batch size = 4
+Evaluating: 100%|█████████████████████████████| 755/755 [00:55<00:00, 13.49it/s]
+07/27/2021 14:51:02 - INFO - trainer -   ***** Eval results *****
+07/27/2021 14:51:02 - INFO - trainer -     acc = 0.89768211920529810, 13.50it/s]
+07/27/2021 14:51:02 - INFO - trainer -     f1 = 0.8016614745586709
+07/27/2021 14:51:02 - INFO - trainer -     loss = 0.7702865297408541
+07/27/2021 14:51:06 - INFO - trainer -   Saving model checkpoint to ./model
+                                                                               07/27/2021 14:52:44 - INFO - trainer -   ***** Running evaluation on test dataset *****
+07/27/2021 14:52:44 - INFO - trainer -     Num examples = 3020
+07/27/2021 14:52:44 - INFO - trainer -     Batch size = 4
+Evaluating: 100%|█████████████████████████████| 755/755 [00:55<00:00, 13.49it/s]
+07/27/2021 14:53:40 - INFO - trainer -   ***** Eval results *****
+07/27/2021 14:53:40 - INFO - trainer -     acc = 0.89801324503311250, 13.50it/s]
+07/27/2021 14:53:40 - INFO - trainer -     f1 = 0.7995930824008137
+07/27/2021 14:53:40 - INFO - trainer -     loss = 0.7724866441453133
+07/27/2021 14:53:45 - INFO - trainer -   Saving model checkpoint to ./model
+                                                                               07/27/2021 14:55:23 - INFO - trainer -   ***** Running evaluation on test dataset *****
+07/27/2021 14:55:23 - INFO - trainer -     Num examples = 3020
+07/27/2021 14:55:23 - INFO - trainer -     Batch size = 4
+Evaluating: 100%|█████████████████████████████| 755/755 [00:55<00:00, 13.50it/s]
+07/27/2021 14:56:19 - INFO - trainer -   ***** Eval results *****
+07/27/2021 14:56:19 - INFO - trainer -     acc = 0.89569536423841060, 13.50it/s]
+07/27/2021 14:56:19 - INFO - trainer -     f1 = 0.7922350472193075
+07/27/2021 14:56:19 - INFO - trainer -     loss = 0.7785398663173949
+07/27/2021 14:56:27 - INFO - trainer -   Saving model checkpoint to ./model
+                                                                               07/27/2021 14:58:05 - INFO - trainer -   ***** Running evaluation on test dataset *****
+07/27/2021 14:58:05 - INFO - trainer -     Num examples = 3020
+07/27/2021 14:58:05 - INFO - trainer -     Batch size = 4
+Evaluating: 100%|█████████████████████████████| 755/755 [00:55<00:00, 13.49it/s]
+07/27/2021 14:59:01 - INFO - trainer -   ***** Eval results *****
+07/27/2021 14:59:01 - INFO - trainer -     acc = 0.90331125827814570, 13.50it/s]
+07/27/2021 14:59:01 - INFO - trainer -     f1 = 0.8055704338510981
+07/27/2021 14:59:01 - INFO - trainer -     loss = 0.7839558297938161
+07/27/2021 14:59:06 - INFO - trainer -   Saving model checkpoint to ./model
+                                                                               07/27/2021 15:00:44 - INFO - trainer -   ***** Running evaluation on test dataset *****
+07/27/2021 15:00:44 - INFO - trainer -     Num examples = 3020
+07/27/2021 15:00:44 - INFO - trainer -     Batch size = 4
+Evaluating: 100%|█████████████████████████████| 755/755 [00:55<00:00, 13.49it/s]
+07/27/2021 15:01:40 - INFO - trainer -   ***** Eval results *****
+07/27/2021 15:01:40 - INFO - trainer -     acc = 0.90827814569536420, 13.50it/s]
+07/27/2021 15:01:40 - INFO - trainer -     f1 = 0.8199076449461262
+07/27/2021 15:01:40 - INFO - trainer -     loss = 0.6665977891941647
+07/27/2021 15:01:44 - INFO - trainer -   Saving model checkpoint to ./model
+Iteration: 100%|████████████████████████████| 3211/3211 [21:11<00:00,  2.53it/s]
+Epoch:  62%|████████████████████            | 5/8 [1:46:02<1:03:36, 1272.33s/it07/27/2021 15:03:22 - INFO - trainer -   ***** Running evaluation on test dataset *****
+07/27/2021 15:03:22 - INFO - trainer -     Num examples = 3020
+07/27/2021 15:03:22 - INFO - trainer -     Batch size = 4
+Evaluating: 100%|█████████████████████████████| 755/755 [00:55<00:00, 13.49it/s]
+07/27/2021 15:04:18 - INFO - trainer -   ***** Eval results *****
+07/27/2021 15:04:18 - INFO - trainer -     acc = 0.91291390728476820, 13.50it/s]
+07/27/2021 15:04:18 - INFO - trainer -     f1 = 0.8226141078838174
+07/27/2021 15:04:18 - INFO - trainer -     loss = 0.7014325098551258
+07/27/2021 15:04:21 - INFO - trainer -   Saving model checkpoint to ./model
+                                                                               07/27/2021 15:05:59 - INFO - trainer -   ***** Running evaluation on test dataset *****
+07/27/2021 15:05:59 - INFO - trainer -     Num examples = 3020
+07/27/2021 15:05:59 - INFO - trainer -     Batch size = 4
+Evaluating: 100%|█████████████████████████████| 755/755 [00:55<00:00, 13.49it/s]
+07/27/2021 15:06:55 - INFO - trainer -   ***** Eval results *****
+07/27/2021 15:06:55 - INFO - trainer -     acc = 0.91225165562913910, 13.50it/s]
+07/27/2021 15:06:55 - INFO - trainer -     f1 = 0.8234096692111958
+07/27/2021 15:06:55 - INFO - trainer -     loss = 0.7234771594574659
+07/27/2021 15:06:58 - INFO - trainer -   Saving model checkpoint to ./model
+                                                                               07/27/2021 15:08:36 - INFO - trainer -   ***** Running evaluation on test dataset *****
+07/27/2021 15:08:36 - INFO - trainer -     Num examples = 3020
+07/27/2021 15:08:36 - INFO - trainer -     Batch size = 4
+Evaluating: 100%|█████████████████████████████| 755/755 [00:55<00:00, 13.49it/s]
+07/27/2021 15:09:32 - INFO - trainer -   ***** Eval results *****
+07/27/2021 15:09:32 - INFO - trainer -     acc = 0.90894039735099340, 13.50it/s]
+07/27/2021 15:09:32 - INFO - trainer -     f1 = 0.814621409921671
+07/27/2021 15:09:32 - INFO - trainer -     loss = 0.704386443226268
+07/27/2021 15:09:35 - INFO - trainer -   Saving model checkpoint to ./model
+                                                                               07/27/2021 15:11:13 - INFO - trainer -   ***** Running evaluation on test dataset *****
+07/27/2021 15:11:13 - INFO - trainer -     Num examples = 3020
+07/27/2021 15:11:13 - INFO - trainer -     Batch size = 4
+Evaluating: 100%|█████████████████████████████| 755/755 [00:55<00:00, 13.49it/s]
+07/27/2021 15:12:09 - INFO - trainer -   ***** Eval results *****
+07/27/2021 15:12:09 - INFO - trainer -     acc = 0.90463576158940400, 13.48it/s]
+07/27/2021 15:12:09 - INFO - trainer -     f1 = 0.8129097327281896
+07/27/2021 15:12:09 - INFO - trainer -     loss = 0.7635481565750777
+07/27/2021 15:12:13 - INFO - trainer -   Saving model checkpoint to ./model
+                                                                               07/27/2021 15:13:51 - INFO - trainer -   ***** Running evaluation on test dataset *****
+07/27/2021 15:13:51 - INFO - trainer -     Num examples = 3020
+07/27/2021 15:13:51 - INFO - trainer -     Batch size = 4
+Evaluating: 100%|█████████████████████████████| 755/755 [00:55<00:00, 13.49it/s]
+07/27/2021 15:14:47 - INFO - trainer -   ***** Eval results *****
+07/27/2021 15:14:47 - INFO - trainer -     acc = 0.90629139072847690, 13.49it/s]
+07/27/2021 15:14:47 - INFO - trainer -     f1 = 0.816591704147926
+07/27/2021 15:14:47 - INFO - trainer -     loss = 0.76064896784858
+07/27/2021 15:14:50 - INFO - trainer -   Saving model checkpoint to ./model
+                                                                               07/27/2021 15:16:28 - INFO - trainer -   ***** Running evaluation on test dataset *****
+07/27/2021 15:16:28 - INFO - trainer -     Num examples = 3020
+07/27/2021 15:16:28 - INFO - trainer -     Batch size = 4
+Evaluating: 100%|█████████████████████████████| 755/755 [00:55<00:00, 13.49it/s]
+07/27/2021 15:17:24 - INFO - trainer -   ***** Eval results *****
+07/27/2021 15:17:24 - INFO - trainer -     acc = 0.91125827814569540, 13.49it/s]
+07/27/2021 15:17:24 - INFO - trainer -     f1 = 0.8209424083769634
+07/27/2021 15:17:24 - INFO - trainer -     loss = 0.7656194502560972
+07/27/2021 15:17:28 - INFO - trainer -   Saving model checkpoint to ./model
+                                                                               07/27/2021 15:19:06 - INFO - trainer -   ***** Running evaluation on test dataset *****
+07/27/2021 15:19:06 - INFO - trainer -     Num examples = 3020
+07/27/2021 15:19:06 - INFO - trainer -     Batch size = 4
+Evaluating: 100%|█████████████████████████████| 755/755 [00:55<00:00, 13.49it/s]
+07/27/2021 15:20:02 - INFO - trainer -   ***** Eval results *****
+07/27/2021 15:20:02 - INFO - trainer -     acc = 0.90231788079470200, 13.47it/s]
+07/27/2021 15:20:02 - INFO - trainer -     f1 = 0.8038815117466803
+07/27/2021 15:20:02 - INFO - trainer -     loss = 0.7306510945803248
+07/27/2021 15:20:09 - INFO - trainer -   Saving model checkpoint to ./model
+                                                                               07/27/2021 15:21:46 - INFO - trainer -   ***** Running evaluation on test dataset *****
+07/27/2021 15:21:46 - INFO - trainer -     Num examples = 3020
+07/27/2021 15:21:46 - INFO - trainer -     Batch size = 4
+Evaluating: 100%|█████████████████████████████| 755/755 [00:55<00:00, 13.49it/s]
+07/27/2021 15:22:42 - INFO - trainer -   ***** Eval results *****
+07/27/2021 15:22:42 - INFO - trainer -     acc = 0.90794701986754970, 13.49it/s]
+07/27/2021 15:22:42 - INFO - trainer -     f1 = 0.8130745658835546
+07/27/2021 15:22:42 - INFO - trainer -     loss = 0.723806672480767
+07/27/2021 15:22:47 - INFO - trainer -   Saving model checkpoint to ./model
+Iteration: 100%|████████████████████████████| 3211/3211 [21:05<00:00,  2.54it/s]
+Epoch:  75%|█████████████████████████▌        | 6/8 [2:07:07<42:20, 1270.03s/it07/27/2021 15:24:25 - INFO - trainer -   ***** Running evaluation on test dataset *****
+07/27/2021 15:24:25 - INFO - trainer -     Num examples = 3020
+07/27/2021 15:24:25 - INFO - trainer -     Batch size = 4
+Evaluating: 100%|█████████████████████████████| 755/755 [00:55<00:00, 13.49it/s]
+07/27/2021 15:25:20 - INFO - trainer -   ***** Eval results *****
+07/27/2021 15:25:20 - INFO - trainer -     acc = 0.90993377483443700, 13.48it/s]
+07/27/2021 15:25:20 - INFO - trainer -     f1 = 0.8202531645569618
+07/27/2021 15:25:20 - INFO - trainer -     loss = 0.7544466893191932
+07/27/2021 15:25:25 - INFO - trainer -   Saving model checkpoint to ./model
+                                                                               07/27/2021 15:27:02 - INFO - trainer -   ***** Running evaluation on test dataset *****
+07/27/2021 15:27:02 - INFO - trainer -     Num examples = 3020
+07/27/2021 15:27:02 - INFO - trainer -     Batch size = 4
+Evaluating: 100%|█████████████████████████████| 755/755 [00:55<00:00, 13.49it/s]
+07/27/2021 15:27:58 - INFO - trainer -   ***** Eval results *****
+07/27/2021 15:27:58 - INFO - trainer -     acc = 0.91059602649006620, 13.48it/s]
+07/27/2021 15:27:58 - INFO - trainer -     f1 = 0.8203808543489448
+07/27/2021 15:27:58 - INFO - trainer -     loss = 0.7793659624223407
+07/27/2021 15:28:03 - INFO - trainer -   Saving model checkpoint to ./model
+                                                                               07/27/2021 15:29:41 - INFO - trainer -   ***** Running evaluation on test dataset *****
+07/27/2021 15:29:41 - INFO - trainer -     Num examples = 3020
+07/27/2021 15:29:41 - INFO - trainer -     Batch size = 4
+Evaluating: 100%|█████████████████████████████| 755/755 [00:55<00:00, 13.49it/s]
+07/27/2021 15:30:37 - INFO - trainer -   ***** Eval results *****
+07/27/2021 15:30:37 - INFO - trainer -     acc = 0.90463576158940400, 13.49it/s]
+07/27/2021 15:30:37 - INFO - trainer -     f1 = 0.8078108941418294
+07/27/2021 15:30:37 - INFO - trainer -     loss = 0.7849481668040064
+07/27/2021 15:30:41 - INFO - trainer -   Saving model checkpoint to ./model
+                                                                               07/27/2021 15:32:18 - INFO - trainer -   ***** Running evaluation on test dataset *****
+07/27/2021 15:32:18 - INFO - trainer -     Num examples = 3020
+07/27/2021 15:32:18 - INFO - trainer -     Batch size = 4
+Evaluating: 100%|█████████████████████████████| 755/755 [00:55<00:00, 13.49it/s]
+07/27/2021 15:33:14 - INFO - trainer -   ***** Eval results *****
+07/27/2021 15:33:14 - INFO - trainer -     acc = 0.91291390728476820, 13.49it/s]
+07/27/2021 15:33:14 - INFO - trainer -     f1 = 0.8226652675760756
+07/27/2021 15:33:14 - INFO - trainer -     loss = 0.786311303396972
+07/27/2021 15:33:19 - INFO - trainer -   Saving model checkpoint to ./model
+                                                                               07/27/2021 15:34:56 - INFO - trainer -   ***** Running evaluation on test dataset *****
+07/27/2021 15:34:56 - INFO - trainer -     Num examples = 3020
+07/27/2021 15:34:56 - INFO - trainer -     Batch size = 4
+Evaluating: 100%|█████████████████████████████| 755/755 [00:55<00:00, 13.50it/s]
+07/27/2021 15:35:52 - INFO - trainer -   ***** Eval results *****
+07/27/2021 15:35:52 - INFO - trainer -     acc = 0.91423841059602650, 13.51it/s]
+07/27/2021 15:35:52 - INFO - trainer -     f1 = 0.826625386996904
+07/27/2021 15:35:52 - INFO - trainer -     loss = 0.7767260038544052
+07/27/2021 15:35:57 - INFO - trainer -   Saving model checkpoint to ./model
+                                                                               07/27/2021 15:37:34 - INFO - trainer -   ***** Running evaluation on test dataset *****
+07/27/2021 15:37:34 - INFO - trainer -     Num examples = 3020
+07/27/2021 15:37:34 - INFO - trainer -     Batch size = 4
+Evaluating: 100%|█████████████████████████████| 755/755 [00:55<00:00, 13.50it/s]
+07/27/2021 15:38:30 - INFO - trainer -   ***** Eval results *****
+07/27/2021 15:38:30 - INFO - trainer -     acc = 0.91324503311258280, 13.50it/s]
+07/27/2021 15:38:30 - INFO - trainer -     f1 = 0.8214849921011059
+07/27/2021 15:38:30 - INFO - trainer -     loss = 0.7753347026278159
+07/27/2021 15:38:34 - INFO - trainer -   Saving model checkpoint to ./model
+                                                                               07/27/2021 15:40:12 - INFO - trainer -   ***** Running evaluation on test dataset *****
+07/27/2021 15:40:12 - INFO - trainer -     Num examples = 3020
+07/27/2021 15:40:12 - INFO - trainer -     Batch size = 4
+Evaluating: 100%|█████████████████████████████| 755/755 [00:55<00:00, 13.49it/s]
+07/27/2021 15:41:08 - INFO - trainer -   ***** Eval results *****
+07/27/2021 15:41:08 - INFO - trainer -     acc = 0.91324503311258280, 13.50it/s]
+07/27/2021 15:41:08 - INFO - trainer -     f1 = 0.8200000000000001
+07/27/2021 15:41:08 - INFO - trainer -     loss = 0.7755333991101515
+07/27/2021 15:41:12 - INFO - trainer -   Saving model checkpoint to ./model
+                                                                               07/27/2021 15:42:50 - INFO - trainer -   ***** Running evaluation on test dataset *****
+07/27/2021 15:42:50 - INFO - trainer -     Num examples = 3020
+07/27/2021 15:42:50 - INFO - trainer -     Batch size = 4
+Evaluating: 100%|█████████████████████████████| 755/755 [00:55<00:00, 13.50it/s]
+07/27/2021 15:43:46 - INFO - trainer -   ***** Eval results *****
+07/27/2021 15:43:46 - INFO - trainer -     acc = 0.91622516556291390, 13.50it/s]
+07/27/2021 15:43:46 - INFO - trainer -     f1 = 0.8307533539731682
+07/27/2021 15:43:46 - INFO - trainer -     loss = 0.7350010422869323
+07/27/2021 15:43:50 - INFO - trainer -   Saving model checkpoint to ./model
+Iteration: 100%|████████████████████████████| 3211/3211 [21:05<00:00,  2.54it/s]
+Epoch:  88%|█████████████████████████████▊    | 7/8 [2:28:13<21:08, 1268.58s/it07/27/2021 15:45:27 - INFO - trainer -   ***** Running evaluation on test dataset *****
+07/27/2021 15:45:27 - INFO - trainer -     Num examples = 3020
+07/27/2021 15:45:27 - INFO - trainer -     Batch size = 4
+Evaluating: 100%|█████████████████████████████| 755/755 [00:55<00:00, 13.49it/s]
+07/27/2021 15:46:23 - INFO - trainer -   ***** Eval results *****
+07/27/2021 15:46:23 - INFO - trainer -     acc = 0.91125827814569540, 13.50it/s]
+07/27/2021 15:46:23 - INFO - trainer -     f1 = 0.8189973614775725
+07/27/2021 15:46:23 - INFO - trainer -     loss = 0.7726419121292974
+07/27/2021 15:46:29 - INFO - trainer -   Saving model checkpoint to ./model
+                                                                               07/27/2021 15:48:07 - INFO - trainer -   ***** Running evaluation on test dataset *****
+07/27/2021 15:48:07 - INFO - trainer -     Num examples = 3020
+07/27/2021 15:48:07 - INFO - trainer -     Batch size = 4
+Evaluating: 100%|█████████████████████████████| 755/755 [00:55<00:00, 13.49it/s]
+07/27/2021 15:49:03 - INFO - trainer -   ***** Eval results *****
+07/27/2021 15:49:03 - INFO - trainer -     acc = 0.91390728476821190, 13.48it/s]
+07/27/2021 15:49:03 - INFO - trainer -     f1 = 0.8240837696335078
+07/27/2021 15:49:03 - INFO - trainer -     loss = 0.749166868677464
+07/27/2021 15:49:08 - INFO - trainer -   Saving model checkpoint to ./model
+                                                                               07/27/2021 15:50:46 - INFO - trainer -   ***** Running evaluation on test dataset *****
+07/27/2021 15:50:46 - INFO - trainer -     Num examples = 3020
+07/27/2021 15:50:46 - INFO - trainer -     Batch size = 4
+Evaluating: 100%|█████████████████████████████| 755/755 [00:55<00:00, 13.49it/s]
+07/27/2021 15:51:42 - INFO - trainer -   ***** Eval results *****
+07/27/2021 15:51:42 - INFO - trainer -     acc = 0.91192052980132450, 13.49it/s]
+07/27/2021 15:51:42 - INFO - trainer -     f1 = 0.8201363398007342
+07/27/2021 15:51:42 - INFO - trainer -     loss = 0.7692311780601165
+07/27/2021 15:51:46 - INFO - trainer -   Saving model checkpoint to ./model
+                                                                               07/27/2021 15:53:24 - INFO - trainer -   ***** Running evaluation on test dataset *****
+07/27/2021 15:53:24 - INFO - trainer -     Num examples = 3020
+07/27/2021 15:53:24 - INFO - trainer -     Batch size = 4
+Evaluating: 100%|█████████████████████████████| 755/755 [00:55<00:00, 13.49it/s]
+07/27/2021 15:54:20 - INFO - trainer -   ***** Eval results *****
+07/27/2021 15:54:20 - INFO - trainer -     acc = 0.91258278145695360, 13.50it/s]
+07/27/2021 15:54:20 - INFO - trainer -     f1 = 0.8213166144200627
+07/27/2021 15:54:20 - INFO - trainer -     loss = 0.7641670502317514
+07/27/2021 15:54:25 - INFO - trainer -   Saving model checkpoint to ./model
+                                                                               07/27/2021 15:56:02 - INFO - trainer -   ***** Running evaluation on test dataset *****
+07/27/2021 15:56:02 - INFO - trainer -     Num examples = 3020
+07/27/2021 15:56:02 - INFO - trainer -     Batch size = 4
+Evaluating: 100%|█████████████████████████████| 755/755 [00:55<00:00, 13.49it/s]
+07/27/2021 15:56:58 - INFO - trainer -   ***** Eval results *****
+07/27/2021 15:56:58 - INFO - trainer -     acc = 0.91456953642384110, 13.50it/s]
+07/27/2021 15:56:58 - INFO - trainer -     f1 = 0.8250000000000001
+07/27/2021 15:56:58 - INFO - trainer -     loss = 0.7682114569518496
+07/27/2021 15:57:03 - INFO - trainer -   Saving model checkpoint to ./model
+                                                                               07/27/2021 15:58:40 - INFO - trainer -   ***** Running evaluation on test dataset *****
+07/27/2021 15:58:40 - INFO - trainer -     Num examples = 3020
+07/27/2021 15:58:40 - INFO - trainer -     Batch size = 4
+Evaluating: 100%|█████████████████████████████| 755/755 [00:55<00:00, 13.49it/s]
+07/27/2021 15:59:36 - INFO - trainer -   ***** Eval results *****
+07/27/2021 15:59:36 - INFO - trainer -     acc = 0.91390728476821190, 13.48it/s]
+07/27/2021 15:59:36 - INFO - trainer -     f1 = 0.8234683281412253
+07/27/2021 15:59:36 - INFO - trainer -     loss = 0.7722551070407032
+07/27/2021 15:59:41 - INFO - trainer -   Saving model checkpoint to ./model
+                                                                               07/27/2021 16:01:18 - INFO - trainer -   ***** Running evaluation on test dataset *****
+07/27/2021 16:01:18 - INFO - trainer -     Num examples = 3020
+07/27/2021 16:01:18 - INFO - trainer -     Batch size = 4
+Evaluating: 100%|█████████████████████████████| 755/755 [00:55<00:00, 13.49it/s]
+07/27/2021 16:02:14 - INFO - trainer -   ***** Eval results *****
+07/27/2021 16:02:14 - INFO - trainer -     acc = 0.91523178807947010, 13.48it/s]
+07/27/2021 16:02:14 - INFO - trainer -     f1 = 0.826266804550155
+07/27/2021 16:02:14 - INFO - trainer -     loss = 0.7646209263722392
+07/27/2021 16:02:19 - INFO - trainer -   Saving model checkpoint to ./model
+                                                                               07/27/2021 16:03:57 - INFO - trainer -   ***** Running evaluation on test dataset *****
+07/27/2021 16:03:57 - INFO - trainer -     Num examples = 3020
+07/27/2021 16:03:57 - INFO - trainer -     Batch size = 4
+Evaluating: 100%|█████████████████████████████| 755/755 [00:55<00:00, 13.49it/s]
+07/27/2021 16:04:53 - INFO - trainer -   ***** Eval results *****
+07/27/2021 16:04:53 - INFO - trainer -     acc = 0.91523178807947010, 13.49it/s]
+07/27/2021 16:04:53 - INFO - trainer -     f1 = 0.826266804550155
+07/27/2021 16:04:53 - INFO - trainer -     loss = 0.7649367605800651
+07/27/2021 16:04:57 - INFO - trainer -   Saving model checkpoint to ./model
+Iteration: 100%|████████████████████████████| 3211/3211 [21:10<00:00,  2.53it/s]
+Epoch: 100%|██████████████████████████████████| 8/8 [2:49:23<00:00, 1270.45s/it]
+07/27/2021 16:05:19 - INFO - trainer -   ***** Bert config loaded *****
+Some weights of the model checkpoint at monologg/biobert_v1.1_pubmed were not used when initializing BertModel: ['cls.predictions.bias', 'cls.predictions.transform.LayerNorm.weight', 'cls.predictions.transform.dense.weight', 'cls.seq_relationship.weight', 'cls.predictions.transform.LayerNorm.bias', 'cls.seq_relationship.bias', 'cls.predictions.decoder.weight', 'cls.predictions.transform.dense.bias']
+- This IS expected if you are initializing BertModel from the checkpoint of a model trained on another task or with another architecture (e.g. initializing a BertForSequenceClassification model from a BertForPreTraining model).
+- This IS NOT expected if you are initializing BertModel from the checkpoint of a model that you expect to be exactly identical (initializing a BertForSequenceClassification model from a BertForSequenceClassification model).
+07/27/2021 16:05:25 - INFO - trainer -   ***** Model Loaded *****
+07/27/2021 16:05:25 - INFO - trainer -   ***** Running evaluation on test dataset *****
+07/27/2021 16:05:25 - INFO - trainer -     Num examples = 3020
+07/27/2021 16:05:25 - INFO - trainer -     Batch size = 4
+Evaluating: 100%|█████████████████████████████| 755/755 [00:56<00:00, 13.48it/s]
+07/27/2021 16:06:21 - INFO - trainer -   ***** Eval results *****
+07/27/2021 16:06:21 - INFO - trainer -     acc = 0.9152317880794701
+07/27/2021 16:06:21 - INFO - trainer -     f1 = 0.826266804550155
+07/27/2021 16:06:21 - INFO - trainer -     loss = 0.7649367605800651
