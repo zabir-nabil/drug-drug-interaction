@@ -36,6 +36,7 @@ def set_seed(args):
 
 def compute_metrics(preds, labels):
     assert len(preds) == len(labels)
+    # write labels in csv file
     return acc_and_f1(preds, labels)
 
 

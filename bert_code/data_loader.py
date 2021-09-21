@@ -53,13 +53,14 @@ class InputFeatures(object):
     """
 
     def __init__(self, input_ids, attention_mask, token_type_ids, label_id,
-                 e1_mask, e2_mask):
+                 e1_mask, e2_mask, ori_str = None):
         self.input_ids = input_ids
         self.attention_mask = attention_mask
         self.token_type_ids = token_type_ids
         self.label_id = label_id
         self.e1_mask = e1_mask
         self.e2_mask = e2_mask
+        self.ori_str = ori_str
 
     def __repr__(self):
         return str(self.to_json_string())
@@ -142,6 +143,7 @@ def convert_examples_to_features(examples, max_seq_len, tokenizer,
         if ex_index % 5000 == 0:
             logger.info("Writing example %d of %d" % (ex_index, len(examples)))
 
+        ori_str = example.text_a
         tokens_a = tokenizer.tokenize(example.text_a)
 
         e11_p = tokens_a.index("<e1>")  # the start position of entity1
@@ -218,7 +220,8 @@ def convert_examples_to_features(examples, max_seq_len, tokenizer,
                           token_type_ids=token_type_ids,
                           label_id=label_id,
                           e1_mask=e1_mask,
-                          e2_mask=e2_mask))
+                          e2_mask=e2_mask,
+                          ori_str=ori_str))
 
     return features
 
@@ -258,8 +261,9 @@ def load_and_cache_examples(args, tokenizer, mode):
     all_e1_mask = torch.tensor([f.e1_mask for f in features], dtype=torch.long)  # add e1 mask
     all_e2_mask = torch.tensor([f.e2_mask for f in features], dtype=torch.long)  # add e2 mask
 
+    all_ori_str = [f.ori_str for f in features]
     all_label_ids = torch.tensor([f.label_id for f in features], dtype=torch.long)
 
     dataset = TensorDataset(all_input_ids, all_attention_mask,
-                            all_token_type_ids, all_label_ids, all_e1_mask, all_e2_mask)
+                            all_token_type_ids, all_label_ids, all_e1_mask, all_e2_mask, all_ori_str)
     return dataset

@@ -20,6 +20,7 @@ def main(args):
         trainer.evaluate('test')
 
 
+
 if __name__ == '__main__':
     parser = argparse.ArgumentParser()
 
@@ -38,7 +39,7 @@ if __name__ == '__main__':
     parser.add_argument("--batch_size", default=4, type=int, help="Batch size for training and evaluation.")
     parser.add_argument("--max_seq_len", default=350, type=int, help="The maximum total input sequence length after tokenization.")
     parser.add_argument("--learning_rate", default=2e-5, type=float, help="The initial learning rate for Adam.")
-    parser.add_argument("--num_train_epochs", default=8, type=float, help="Total number of training epochs to perform.")
+    parser.add_argument("--num_train_epochs", default=1, type=float, help="Total number of training epochs to perform.")
     parser.add_argument("--weight_decay", default=0.0, type=float, help="Weight decay if we apply some.")
     parser.add_argument('--gradient_accumulation_steps', type=int, default=1,
                         help="Number of updates steps to accumulate before performing a backward/update pass.")
